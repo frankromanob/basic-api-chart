@@ -3,12 +3,12 @@ entries:
   basic-api-chart:
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2022-04-28T15:17:15.465054936Z"
+    created: "2022-04-28T15:38:15.079654748Z"
     description: A Helm chart for Kubernetes
     digest: aa25da0acc0e54ae2160ed6a00fd96713adce7600f38bc82a86f8ef17bc7b524
     name: basic-api-chart
     type: application
     urls:
-    - https://romanofr.github.io/basic-api-chart/basic-api-chart-0.0.1.tgz
+    - https://frankromanob.github.io/basic-api-chart/basic-api-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2022-04-28T15:17:15.464224856Z"
+generated: "2022-04-28T15:38:15.078878673Z"
